@@ -33,6 +33,11 @@
     display: none !important;
 }
 
+/* Hide the broken TurboAssure logo in navbar */
+.navbar__logo {
+    display: none !important;
+}
+
 /* Expand doc container full width */
 .docItemCol_VOVn,
 .docMainContainer_TBSr,

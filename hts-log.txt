@@ -1,0 +1,370 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Nov 2025 19:25:17 at https://docs.turboassure.com/current/reference/sql/sql-functions/ALL_FUNCTIONS +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://docs.turboassure.com/current/reference/sql/sql-functions/ALL_FUNCTIONS -O1 "C:\My Web Sites\TurboAssureDocs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+19:25:32	Error: 	"Not Found" (404) at link https://docs.turboassure.com/img/docusaurus-social-card.jpg (from https://docs.turboassure.com/current/reference/sql/sql-functions/ALL_FUNCTIONS/)
+
+19:51:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_POSITION (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:37	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_PREPEND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:37	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_REMOVE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:37	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_REMOVE_AT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_SIZE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_SLICE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_SUM (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_TO_STRING (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Unexpected socket error during pre-loop
+
+19:51:43	Warning: 	Unexpected socket error during pre-loop
+
+19:51:43	Warning: 	Unexpected socket error during pre-loop
+
+19:51:43	Warning: 	Unexpected socket error during pre-loop
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ASCII (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ASIN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ATAN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:43	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ATAN2 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/AVG (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BASE64 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BINARY_STRING (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BITWISE_AND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BITWISE_NOT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BITWISE_OR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BITWISE_XOR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BIT_AND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BIT_LENGTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BIT_OR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BOOL_AND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BOOL_OR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BROUND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/BTRIM (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CARDINALITY (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CASE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CAST (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CBRT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CEILING (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CHARACTER_LENGTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CHAR_LENGTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CHR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COALESCE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COL_LIKE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONCAT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONCAT_WS (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONTAINS (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:44	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONVERT_FROM (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONVERT_TIMEZONE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CONVERT_TO (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CORR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COS (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COSH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COUNT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COVAR_POP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/COVAR_SAMP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CRC32 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CUME_DIST (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CURRENT_DATE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CURRENT_DATE_UTC (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CURRENT_SCHEMA (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CURRENT_TIME (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/CURRENT_TIMESTAMP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATEDIFF (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATETYPE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATE_ADD (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATE_DIFF (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATE_PART (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATE_SUB (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DATE_TRUNC (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DAY (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DAYOFMONTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DAYOFWEEK (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DAYOFYEAR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DEGREES (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/DENSE_RANK (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/E (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ENCODE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ENDS_WITH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/EXP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/EXTRACT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/FACTORIAL (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/FIRST_VALUE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/FLATTEN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/FLOOR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/FROM_HEX (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/GEO_BEYOND (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/GEO_DISTANCE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/GEO_NEARBY (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/GREATEST (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/HASH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/HASH64 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/HEX (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/HOUR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ILIKE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IMAXDIR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IMINDIR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/INITCAP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/INSTR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ISDATE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ISNUMERIC (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_BIGINT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:46	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_INT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_MEMBER (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_SUBSTR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_UTF8 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS_VARCHAR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS__NOT__DISTINCT_FROM (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS__NOT__FALSE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS__NOT__NULL (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/IS__NOT__TRUE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LAG (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LAST_DAY (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LAST_QUERY_ID (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LAST_VALUE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LCASE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LEAD (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LEAST (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LEFT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LENGTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LEVENSHTEIN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LIKE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LISTAGG (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOCALTIME (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOCALTIMESTAMP (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOCATE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOG (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOG10 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LOWER (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LPAD (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LSHIFT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/LTRIM (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MAP_KEYS (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MAP_VALUES (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK_FIRST_N (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK_HASH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK_LAST_N (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK_SHOW_FIRST_N (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MASK_SHOW_LAST_N (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MAX (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MAXDIR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MD5 (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MEDIAN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MIN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MINDIR (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MINUTE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MOD (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MONTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/MONTHS_BETWEEN (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NDV (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NEXT_DAY (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NORMALIZE_STRING (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NOW (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:48	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NTILE (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:49	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NULLIF (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:49	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/NVL (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:49	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/OCTET_LENGTH (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:51:49	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/OVERLAPS (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:53:06	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PARSE_URL (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:53:07	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PERCENTILE_CONT (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:53:07	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PERCENTILE_DISC (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:53:08	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PERCENT_RANK (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:54:24	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PI (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:54:25	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/PMOD (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:54:26	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/POSITION (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:54:26	Warning: 	Retry after error -4 (Connect Error) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/POW__POWER (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:55:36	Error: 	Exit requested by shell or user
+
+19:55:37	Error: 	Exit requested by shell or user
+
+19:55:37	Error: 	Exit requested by shell or user
+
+19:55:37	Error: 	"" (-1) at link https://docs.turboassure.com/current/reference/sql/sql-functions/functions/QUARTER (from https://docs.turboassure.com/current/reference/sql/sql-functions/functions/ARRAY_MAX/)
+
+19:55:37	Error: 	Unable to save file C:/My Web Sites/TurboAssureDocs/docs.turboassure.com/current/reference/sql/sql-functions/functions/QUARTER: Permission denied
+
+19:55:37	Error: 	Exit requested by shell or user
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 20 seconds : 716 links scanned, 294 files written (29546069 bytes overall) [8620614 bytes received at 4736 bytes/sec], 28407448 bytes transferred using HTTP compression in 293 files, ratio 11%, 13.4 requests per connection
+
+(7 errors, 165 warnings, 0 messages)
+
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
